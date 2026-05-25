@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Post 3",
+    "date": "2026-05-25T00:42:20.091Z",
+    "type": "thought",
+    "content": "This website has been a great creative outlet for me.\nThis semester has been very difficult and draining, a lot of social interacting that I did not originally anticipate.\nNot that it is a bad thing, It just takes me some time to adjust and I do so enjoy having time free from socializing.\n\nI dont really know where I am going with my life, for the most part.\nI have plans, dreams and goals. How to go about achieving them is the biggest problem.\nEverything is just so abstract and distant that it all elludes me.\n\nThis is something small that i have control over.\nI quite enjoy it.\n\nThank you for reading and thank you for your time.",
+    "tags": ["vent"]
+  },
+  {
+    "id": "Post 2",
+    "date": "2026-05-24T03:59:19.123Z",
+    "type": "thought",
+    "content": "The website has progressed quite a lot already. I've even made a guestbook, so if you see this and have the opportunity, feel free to use it.",
+    "tags": ["testing"]
+  },
+  {
+    "id": "Post 1",
+    "date": "2026-05-23T22:12:59.884Z",
+    "type": "thought",
+    "content": "This is my first attempt at a post. I hope it works well.",
+    "tags": ["testing"]
+  }
+]
