@@ -118,5 +118,57 @@
       "Serve hot on top of toasted bread with a light, fresh drizzle of olive oil."
     ],
     "note": "A traditional Greek recipe shared by MikeHan. While many in Greece use more eggs than tomatoes, this specific version honors his grandmother's family ratio, prioritizing a rich, concentrated tomato base over the eggs."
+  },
+  {
+    "id": "traditional-brigadeiro",
+    "number": 5,
+    "title": "Traditional Brazilian Brigadeiro",
+    "time": "25 min",
+    "yield": "20-25 rolling portions",
+    "tags": ["sweet", "brazilian", "party"],
+    "components": [
+      "1 can sweetened condensed milk (395g)",
+      "1 tbsp unsalted butter",
+      "3 tbsp cocoa powder (or chocolate powder)",
+      "Chocolate sprinkles for coating",
+      "A small amount of butter for greasing your hands"
+    ],
+    "procedure": [
+      "In a saucepan, combine the sweetened condensed milk, cocoa powder, and unsalted butter before turning on the heat.",
+      "Place the saucepan over low-to-medium heat and stir continuously with a spatula, making sure to scrape the bottom and sides of the pan.",
+      "Cook for about 10 to 15 minutes, or until the mixture thickens and easily slides away from the bottom of the pan when tilted (the 'slide' point).",
+      "Pour the mixture onto a greased plate or shallow dish and let it cool completely to room temperature.",
+      "Once cooled, grease your hands with a little bit of butter, scoop small portions with a spoon, and roll them into neat little balls.",
+      "Roll each ball in chocolate sprinkles until fully coated, then place them into paper candy cups."
+    ],
+    "note": "The ultimate Brazilian party icon. For the perfect texture, avoid high heat so the sugar doesn't crystallize, ensuring a smooth, chewy bite every time."
+  },
+  {
+    "id": "sausage-onion-farofa",
+    "number": 6,
+    "title": "Smoked Sausage and Onion Farofa",
+    "time": "30 min",
+    "yield": "6 servings",
+    "tags": ["savory", "brazilian", "side-dish"],
+    "components": [
+      "2 cups cassava flour (farinha de mandioca, toasted or raw)",
+      "1 large smoked sausage (calabresa), finely diced",
+      "1 large onion, thinly sliced or chopped",
+      "3 tbsp unsalted butter",
+      "1 tbsp olive oil",
+      "2 cloves garlic, minced",
+      "Salt and black pepper to taste",
+      "Finely chopped fresh parsley and scallions for garnish"
+    ],
+    "procedure": [
+      "Heat the olive oil in a large skillet or pan over medium heat and add the diced smoked sausage.",
+      "Sauté the sausage until it releases its own flavorful fat and turns nicely golden and crispy.",
+      "Add the butter to the pan, and once melted, toss in the chopped onion and minced garlic.",
+      "Sauté the mixture until the onions become soft, translucent, and slightly caramelized at the edges.",
+      "Gradually add the cassava flour while stirring constantly to evenly absorb the fats and flavors.",
+      "Keep stirring over low heat for about 5 minutes until the flour is beautifully toasted and golden.",
+      "Season with salt and black pepper to taste, remove from heat, and mix in the fresh parsley and scallions before serving."
+    ],
+    "note": "The perfect, crunchy companion for a traditional barbecue or feijoada. If the farofa feels a bit too dry for your liking, simply melt in an extra tablespoon of butter at the very end."
   }
 ]
