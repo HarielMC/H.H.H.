@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "tomato-soup",
+    "number": 1,
+    "title": "Grandmother's Tomato Soup",
+    "time": "35 min",
+    "yield": "4 servings",
+    "tags": ["soup", "comfort", "vegetarian"],
+    "components": [
+      "6 ripe tomatoes, halved",
+      "1 onion, quartered",
+      "4 cloves garlic",
+      "2 tbsp olive oil",
+      "1 cup vegetable stock",
+      "1/4 cup heavy cream"
+    ],
+    "procedure": [
+      "Roast tomatoes, onion, and garlic at 200°C for 25 minutes.",
+      "Blend roasted vegetables with stock until smooth.",
+      "Simmer 10 minutes, stir in cream off heat.",
+      "Season to taste."
+    ],
+    "note": "My grandmother made this every time it rained. I still can't have it without thinking of her kitchen."
+  }
+]
