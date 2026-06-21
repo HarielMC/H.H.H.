@@ -1,25 +1,122 @@
 [
   {
-    "id": "tomato-soup",
+    "id": "carrot-cake",
     "number": 1,
-    "title": "Grandmother's Tomato Soup",
-    "time": "35 min",
-    "yield": "4 servings",
-    "tags": ["soup", "comfort", "vegetarian"],
+    "title": "Brazilian Carrot Cake with Chocolate Glaze",
+    "time": "55 min",
+    "yield": "8-10 servings",
+    "tags": ["cake", "sweet", "comfort"],
     "components": [
-      "6 ripe tomatoes, halved",
-      "1 onion, quartered",
-      "4 cloves garlic",
-      "2 tbsp olive oil",
-      "1 cup vegetable stock",
-      "1/4 cup heavy cream"
+      "3 medium carrots, grated",
+      "4 eggs",
+      "1/2 cup vegetable oil",
+      "2 cups sugar",
+      "2 1/2 cups all-purpose flour",
+      "1 tbsp baking powder",
+      "1 tbsp butter or margarine (glaze)",
+      "1 cup sugar (glaze)",
+      "3 tbsp cocoa powder (glaze)",
+      "1 cup milk (glaze)"
     ],
     "procedure": [
-      "Roast tomatoes, onion, and garlic at 200°C for 25 minutes.",
-      "Blend roasted vegetables with stock until smooth.",
-      "Simmer 10 minutes, stir in cream off heat.",
-      "Season to taste."
+      "In a blender, combine the grated carrots, eggs, and vegetable oil until smooth.",
+      "Add the sugar and blend again until fully incorporated.",
+      "In a large bowl, add the all-purpose flour and mix well with the blended liquid mixture.",
+      "Gently fold in the baking powder until just combined.",
+      "Pour the batter into a greased baking pan and bake in a preheated oven at 180°C for approximately 40 minutes.",
+      "For the glaze, mix the butter, cocoa powder, sugar, and milk in a saucepan.",
+      "Cook over low-to-medium heat, stirring constantly until it thickens, then pour immediately over the baked cake."
     ],
-    "note": "My grandmother made this every time it rained. I still can't have it without thinking of her kitchen."
+    "note": "A timeless comfort food classic. The secret is to mix the baking powder very gently at the end so the batter rises perfectly fluffy."
+  },
+  {
+    "id": "chocolate-cake-brigadeiro",
+    "number": 2,
+    "title": "Fluffy Chocolate Cake with Brigadeiro",
+    "time": "1h 15min",
+    "yield": "12 servings",
+    "tags": ["cake", "chocolate", "sweet"],
+    "components": [
+      "3 eggs",
+      "1 1/2 cups sugar",
+      "1/2 cup vegetable oil",
+      "1/2 cup cocoa powder (50% cacao)",
+      "1 cup warm water (or milk)",
+      "1 pinch of salt",
+      "2 1/2 cups all-purpose flour, sifted",
+      "1 tbsp baking powder",
+      "2 cans sweetened condensed milk (395g each - brigadeiro)",
+      "4 tbsp cocoa powder 50% or chocolate powder (brigadeiro)",
+      "1 tbsp unsalted butter or margarine (brigadeiro)",
+      "1 can heavy cream / table cream (200g - brigadeiro)",
+      "Chocolate sprinkles for decoration"
+    ],
+    "procedure": [
+      "In a bowl, whisk the eggs and sugar together. Slowly add the oil, mixing well.",
+      "Add the 50% cocoa powder and stir until smooth.",
+      "Pour in the warm water (or milk) and a pinch of salt, mixing gently.",
+      "Sift the flour into the batter gradually, incorporating it calmly and patiently.",
+      "Add the baking powder and mix gently just until combined. Pour into a greased and floured pan (size 20x10cm recommended) and bake at 180°C for 40 to 50 minutes until a toothpick comes out clean.",
+      "For the brigadeiro, mix the condensed milk and cocoa powder in a saucepan before turning on the heat. Add the butter and heavy cream.",
+      "Cook over medium heat, stirring constantly, until it reaches the thick 'soft ribbon' consistency. Transfer to a bowl, cover with plastic wrap touching the surface, and let cool.",
+      "Once both the cake and brigadeiro are at room temperature, slice the cake into two layers. Spread a portion of the brigadeiro on the bottom layer, place the top layer back on, poke light holes with a fork (optional for syrup), and cover the entire cake with the remaining brigadeiro. Decorate with sprinkles."
+    ],
+    "note": "Made entirely by hand without a mixer, resulting in an incredibly fluffy texture that pairs perfectly with the rich thickness of the brigadeiro."
+  },
+  {
+    "id": "milk-ice-cream",
+    "number": 3,
+    "title": "Alchemical Milk & White Chocolate Ice Cream",
+    "time": "13h 20min",
+    "yield": "6-8 servings",
+    "tags": ["ice cream", "sweet", "cold"],
+    "components": [
+      "2 egg yolks",
+      "250g milk",
+      "40g sugar",
+      "60g whole milk powder",
+      "40g sweetened condensed milk",
+      "40g white chocolate",
+      "350g heavy whipping cream (chilled)"
+    ],
+    "procedure": [
+      "In a saucepan, whisk together the egg yolks, milk, and sugar.",
+      "Add the milk powder and condensed milk, stirring until completely dissolved.",
+      "Place over heat and drop in the white chocolate, stirring continuously until melted and smooth.",
+      "Remove from heat, let it cool to room temperature, and then chill in the refrigerator for 3 hours.",
+      "In a separate bowl, whip the heavy cream until it forms stiff peaks.",
+      "Gently fold the whipped cream into the chilled milk base until uniform.",
+      "Pour the mixture into popsicle molds or a container, and freeze for at least 10 hours."
+    ],
+    "note": "A rich, velvety base. Patience during the freezing process is essential to achieve the perfect, crystallization-free texture."
+  },
+  {
+    "id": "kayanas-strapatsada",
+    "number": 4,
+    "title": "Grandma's Greek Kayanas (Strapatsada)",
+    "time": "35 min",
+    "yield": "3 servings",
+    "tags": ["greek", "eggs", "savory", "traditional"],
+    "components": [
+      "10 ripe tomatoes (peeled, solid flesh only, seeds/gel removed)",
+      "3-4 tbsp olive oil",
+      "8 eggs",
+      "1/2 tsp salt",
+      "1/4 tsp paprika",
+      "1/4 tsp cayenne pepper",
+      "Black pepper to taste",
+      "Toasted bread and extra virgin olive oil for serving"
+    ],
+    "procedure": [
+      "Chop the peeled and seeded solid tomato flesh into pieces.",
+      "Heat a pan containing 3-4 tablespoons of olive oil until hot.",
+      "Add the tomatoes to the hot pan and cook, stirring occasionally with a wooden spoon.",
+      "Simmer for about 20 minutes until the excess tomato juice evaporates and the mixture is nearly dry (a line drawn across the pan with the spoon should stay clear).",
+      "In a bowl, whisk the 8 eggs with half a teaspoon of salt, then pour them directly into the pan with the tomatoes.",
+      "Stir constantly and intensely for 5-10 minutes. Halfway through, incorporate the paprika, cayenne pepper, and black pepper.",
+      "Once the mixture thickens and loses its liquid consistency, remove from heat.",
+      "Serve hot on top of toasted bread with a light, fresh drizzle of olive oil."
+    ],
+    "note": "A traditional Greek recipe shared by MikeHan. While many in Greece use more eggs than tomatoes, this specific version honors his grandmother's family ratio, prioritizing a rich, concentrated tomato base over the eggs."
   }
 ]
