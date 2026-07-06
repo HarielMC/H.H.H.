@@ -1,1 +1,22 @@
-
+[
+  {
+    "type": "Reading",
+    "title": "Book title here",
+    "note": null
+  },
+  {
+    "type": "Watching",
+    "title": "Show or film title",
+    "note": null
+  },
+  {
+    "type": "Learning",
+    "title": "What you're studying",
+    "note": null
+  },
+  {
+    "type": "Working on",
+    "title": "Current project",
+    "note": null
+  }
+]
