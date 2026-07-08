@@ -26,6 +26,6 @@
   { "name": "Creeping Inchplant (Dinheiro em penca)", "species": "Callisia repens", "status": "Thriving", "cuttings": true, "notes": "Thriving, cuttings available.", "category": "Groundcover" },
   { "name": "Four O'Clock Flower", "species": "Mirabilis jalapa", "status": "Thriving", "cuttings": true, "notes": "Pink and white variety. Seeds available.", "category": "Flowers" },
   { "name": "Bredo (Amaranth)", "species": "Amaranthus viridis", "status": "Stable", "cuttings": false, "notes": "Stable growth.", "category": "Other" },
-  { "name": "Trevo (Wood Sorrel)", "species": "Oxalis sp.", "status": "Thriving", "cuttings": false, "notes": "Stable growth, flowering.", "category": "Other" }
+  { "name": "Trevo (Wood Sorrel)", "species": "Oxalis sp.", "status": "Thriving", "cuttings": false, "notes": "Stable growth, flowering.", "category": "Other" },
   { "name": "Morango (Strawberry)", "species": "Fragaria ananassa", "status": "Thriving", "cuttings": false, "notes": "Crescendo em recipiente compartilhado.", "category": "Other" }
 ]
