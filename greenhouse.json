@@ -1,218 +1,29 @@
 [
-  {
-    "name": "Lemon Balm",
-    "species": "Melissa officinalis",
-    "status": "Thriving",
-    "acquired": "N/A",
-    "cuttings": true,
-    "notes": "Growing well, small seedlings available.",
-    "category": "Herbs"
-  },
-  {
-    "name": "Peppermint",
-    "species": "Mentha spicata",
-    "status": "Thriving",
-    "acquired": "N/A",
-    "cuttings": true,
-    "notes": "Small cuttings available.",
-    "category": "Herbs"
-  },
-  {
-    "name": "Green Basil",
-    "species": "Ocimum basilicum",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Stable but dormant.",
-    "category": "Herbs"
-  },
-  {
-    "name": "Pink Kalanchoe",
-    "species": "Kalanchoe blossfeldiana",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Developing roots.",
-    "category": "Succulents"
-  },
-  {
-    "name": "Snake Plant (Sansevieria)",
-    "species": "Dracaena trifasciata",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": true,
-    "notes": "Growing slowly but steady. Divisions available.",
-    "category": "Succulents"
-  },
-  {
-    "name": "Dwarf Snake Plant",
-    "species": "Dracaena trifasciata 'Hahnii'",
-    "status": "Thriving",
-    "acquired": "N/A",
-    "cuttings": true,
-    "notes": "Thriving, cuttings available.",
-    "category": "Succulents"
-  },
-  {
-    "name": "Zamioculcas",
-    "species": "Zamioculcas zamiifolia",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": true,
-    "notes": "Stable, cuttings available.",
-    "category": "Succulents"
-  },
-  {
-    "name": "Cochineal Nopal Cactus",
-    "species": "Opuntia cochenillifera",
-    "status": "Thriving",
-    "acquired": "N/A",
-    "cuttings": true,
-    "notes": "Thriving, cuttings available.",
-    "category": "Succulents"
-  },
-  {
-    "name": "Pothos",
-    "species": "Epipremnum aureum",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Stable growth.",
-    "category": "Foliage"
-  },
-  {
-    "name": "Swiss Cheese Vine",
-    "species": "Monstera obliqua",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Recently transitioned from water to soil.",
-    "category": "Foliage"
-  },
-  {
-    "name": "Saint George's Spear",
-    "species": "Dracaena angolensis",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Growing slowly.",
-    "category": "Foliage"
-  },
-  {
-    "name": "Dumb Cane",
-    "species": "Dieffenbachia",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Stable growth.",
-    "category": "Foliage"
-  },
-  {
-    "name": "Aglaonema",
-    "species": "Aglaonema commutatum",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Stable but not actively growing.",
-    "category": "Foliage"
-  },
-  {
-    "name": "Peace Lily",
-    "species": "Spathiphyllum",
-    "status": "Thriving",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Growing actively.",
-    "category": "Foliage"
-  },
-  {
-    "name": "Alocasia",
-    "species": "Alocasia sp.",
-    "status": "Thriving",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Growing actively.",
-    "category": "Foliage"
-  },
-  {
-    "name": "Hibiscus",
-    "species": "Hibiscus rosa-sinensis",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Rooting in water.",
-    "category": "Shrubs & Trees"
-  },
-  {
-    "name": "Ming Aralia",
-    "species": "Polyscias fruticosa",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Rooting in water.",
-    "category": "Shrubs & Trees"
-  },
-  {
-    "name": "Avocado",
-    "species": "Persea americana",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Grown from seed.",
-    "category": "Shrubs & Trees"
-  },
-  {
-    "name": "Acerola",
-    "species": "Malpighia emarginata",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Stable growth.",
-    "category": "Shrubs & Trees"
-  },
-  {
-    "name": "Surinam Cherry",
-    "species": "Eugenia uniflora",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Small, steady growth.",
-    "category": "Shrubs & Trees"
-  },
-  {
-    "name": "Black Mulberry",
-    "species": "Morus nigra",
-    "status": "Thriving",
-    "acquired": "N/A",
-    "cuttings": true,
-    "notes": "Thriving, cuttings available.",
-    "category": "Shrubs & Trees"
-  },
-  {
-    "name": "Creeping Inchplant",
-    "species": "Callisia repens",
-    "status": "Thriving",
-    "acquired": "N/A",
-    "cuttings": true,
-    "notes": "Thriving, cuttings available.",
-    "category": "Groundcover"
-  },
-  {
-    "name": "Four O'Clock Flower",
-    "species": "Mirabilis jalapa",
-    "status": "Thriving",
-    "acquired": "N/A",
-    "cuttings": true,
-    "notes": "Pink and white variety. Seeds available.",
-    "category": "Flowers"
-  },
-  {
-    "name": "Bredo (Amaranth)",
-    "species": "Amaranthus viridis",
-    "status": "Stable",
-    "acquired": "N/A",
-    "cuttings": false,
-    "notes": "Stable growth.",
-    "category": "Other"
-  }
+  { "name": "Lemon Balm", "species": "Melissa officinalis", "status": "Thriving", "cuttings": true, "notes": "Small seedlings available.", "category": "Herbs" },
+  { "name": "Peppermint", "species": "Mentha spicata", "status": "Thriving", "cuttings": true, "notes": "Small cuttings available.", "category": "Herbs" },
+  { "name": "Green Basil", "species": "Ocimum basilicum", "status": "Stable", "cuttings": false, "notes": "Stable but dormant.", "category": "Herbs" },
+  { "name": "Plumeria (Jasmim-manga)", "species": "Plumeria rubra", "status": "Stable", "cuttings": false, "notes": "Beautiful sculptural stem.", "category": "Shrubs & Trees" },
+  { "name": "Bridal Wreath (Buquê de noiva)", "species": "Spiraea cantoniensis", "status": "Stable", "cuttings": false, "notes": "White flowers, odorless.", "category": "Shrubs & Trees" },
+  { "name": "Hibiscus", "species": "Hibiscus rosa-sinensis", "status": "Stable", "cuttings": false, "notes": "Rooting in water.", "category": "Shrubs & Trees" },
+  { "name": "Ming Aralia", "species": "Polyscias fruticosa", "status": "Stable", "cuttings": false, "notes": "Rooting in water.", "category": "Shrubs & Trees" },
+  { "name": "Avocado", "species": "Persea americana", "status": "Stable", "cuttings": false, "notes": "Grown from seed.", "category": "Shrubs & Trees" },
+  { "name": "Acerola", "species": "Malpighia emarginata", "status": "Stable", "cuttings": false, "notes": "Stable growth.", "category": "Shrubs & Trees" },
+  { "name": "Surinam Cherry (Pitanga)", "species": "Eugenia uniflora", "status": "Stable", "cuttings": false, "notes": "Small, steady growth.", "category": "Shrubs & Trees" },
+  { "name": "Black Mulberry", "species": "Morus nigra", "status": "Thriving", "cuttings": true, "notes": "Thriving, cuttings available.", "category": "Shrubs & Trees" },
+  { "name": "Pink Kalanchoe", "species": "Kalanchoe blossfeldiana", "status": "Stable", "cuttings": false, "notes": "Developing roots.", "category": "Succulents" },
+  { "name": "Snake Plant (Sansevieria)", "species": "Dracaena trifasciata", "status": "Stable", "cuttings": true, "notes": "Divisions available.", "category": "Succulents" },
+  { "name": "Dwarf Snake Plant", "species": "Dracaena trifasciata 'Hahnii'", "status": "Thriving", "cuttings": true, "notes": "Thriving, cuttings available.", "category": "Succulents" },
+  { "name": "Zamioculcas", "species": "Zamioculcas zamiifolia", "status": "Stable", "cuttings": true, "notes": "Stable, cuttings available.", "category": "Succulents" },
+  { "name": "Cochineal Nopal Cactus", "species": "Opuntia cochenillifera", "status": "Thriving", "cuttings": true, "notes": "Thriving, cuttings available.", "category": "Succulents" },
+  { "name": "Pothos (Jiboia)", "species": "Epipremnum aureum", "status": "Stable", "cuttings": false, "notes": "Stable growth.", "category": "Foliage" },
+  { "name": "Swiss Cheese Vine", "species": "Monstera obliqua", "status": "Stable", "cuttings": false, "notes": "Transitioned from water to soil.", "category": "Foliage" },
+  { "name": "Saint George's Spear", "species": "Dracaena angolensis", "status": "Stable", "cuttings": false, "notes": "Growing slowly.", "category": "Foliage" },
+  { "name": "Dumb Cane (Comigo-ninguém-pode)", "species": "Dieffenbachia", "status": "Stable", "cuttings": false, "notes": "Stable growth.", "category": "Foliage" },
+  { "name": "Aglaonema", "species": "Aglaonema commutatum", "status": "Stable", "cuttings": false, "notes": "Stable but not actively growing.", "category": "Foliage" },
+  { "name": "Peace Lily", "species": "Spathiphyllum", "status": "Thriving", "cuttings": false, "notes": "Growing actively.", "category": "Foliage" },
+  { "name": "Alocasia", "species": "Alocasia sp.", "status": "Thriving", "cuttings": false, "notes": "Growing actively.", "category": "Foliage" },
+  { "name": "Anthurium", "species": "Anthurium sp.", "status": "Stable", "cuttings": false, "notes": "Beautiful long leaves.", "category": "Foliage" },
+  { "name": "Creeping Inchplant (Dinheiro em penca)", "species": "Callisia repens", "status": "Thriving", "cuttings": true, "notes": "Thriving, cuttings available.", "category": "Groundcover" },
+  { "name": "Four O'Clock Flower", "species": "Mirabilis jalapa", "status": "Thriving", "cuttings": true, "notes": "Pink and white variety. Seeds available.", "category": "Flowers" },
+  { "name": "Bredo (Amaranth)", "species": "Amaranthus viridis", "status": "Stable", "cuttings": false, "notes": "Stable growth.", "category": "Other" }
 ]
