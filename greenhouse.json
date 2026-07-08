@@ -17,7 +17,7 @@
   { "name": "Anthurium", "species": "Anthurium sp.", "family": "Araceae", "status": "Stable", "cuttings": false, "notes": "Beautiful long leaves." },
   { "name": "Plumeria (Jasmim-manga)", "species": "Plumeria rubra", "family": "Apocynaceae", "status": "Stable", "cuttings": false, "notes": "Beautiful sculptural stem." },
   { "name": "Plumeria (Buquê de noiva)", "species": "Plumeria pudica", "family": "Apocynaceae", "status": "Stable", "cuttings": false, "notes": "White flowers." },
-  { "name": "Morango (Strawberry)", "species": "Fragaria ananassa", "family": "Rosaceae", "status": "Thriving", "cuttings": false, "notes": "Crescendo em recipiente compartilhado." },
+  { "name": "Morango (Strawberry)", "species": "Fragaria ananassa", "family": "Rosaceae", "status": "Thriving", "cuttings": false, "notes": "Growing slowly." },
   { "name": "Hibiscus", "species": "Hibiscus rosa-sinensis", "family": "Malvaceae", "status": "Stable", "cuttings": false, "notes": "Rooting in water." },
   { "name": "Bredo (Amaranth)", "species": "Amaranthus viridis", "family": "Amaranthaceae", "status": "Stable", "cuttings": false, "notes": "Stable growth." },
   { "name": "Ming Aralia", "species": "Polyscias fruticosa", "family": "Araliaceae", "status": "Stable", "cuttings": false, "notes": "Rooting in water." },
