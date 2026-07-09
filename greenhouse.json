@@ -1,5 +1,5 @@
 [
-  { "name": "Lemon Balm", "species": "Melissa officinalis", "family": "Lamiaceae", "status": "Thriving", "cuttings": true, "notes": "Small seedlings available.", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Melissa_officinalis_1.jpg/500px-Melissa_officinalis_1.jpg"},
+  { "name": "Lemon Balm", "species": "Melissa officinalis", "family": "Lamiaceae", "status": "Thriving", "cuttings": true, "notes": "Small seedlings available.", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Melissa_officinalis_1.jpg/500px-Melissa_officinalis_1.jpg"},
   { "name": "Peppermint", "species": "Mentha spicata", "family": "Lamiaceae", "status": "Thriving", "cuttings": true, "notes": "Small cuttings available." },
   { "name": "Green Basil", "species": "Ocimum basilicum", "family": "Lamiaceae", "status": "Stable", "cuttings": false, "notes": "Stable but dormant." },
   { "name": "Pink Kalanchoe", "species": "Kalanchoe blossfeldiana", "family": "Crassulaceae", "status": "Stable", "cuttings": false, "notes": "Developing roots." },
