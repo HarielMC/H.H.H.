@@ -19,7 +19,7 @@
   { "name": "Plumeria (Buquê de noiva)", "species": "Plumeria pudica", "family": "Apocynaceae", "status": "Stable", "cuttings": false, "notes": "White flowers." },
   { "name": "Morango (Strawberry)", "species": "Fragaria ananassa", "family": "Rosaceae", "status": "Thriving", "cuttings": false, "notes": "Growing slowly." },
   { "name": "Hibiscus", "species": "Hibiscus rosa-sinensis", "family": "Malvaceae", "status": "Stable", "cuttings": false, "notes": "Rooting in water." },
-  { "name": "Bredo (Amaranth)", "species": "Amaranthus viridis", "family": "Amaranthaceae", "status": "Stable", "cuttings": false, "notes": "Stable growth." },
+  { "name": "Bredo", "species": "Talinum fruticosum", "family": "Talinaceae", "status": "Stable", "cuttings": false, "notes": "Stable growth.", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Talinum_crassifolium_2.jpg/500px-Talinum_crassifolium_2.jpg" },
   { "name": "Ming Aralia", "species": "Polyscias fruticosa", "family": "Araliaceae", "status": "Stable", "cuttings": false, "notes": "Rooting in water." },
   { "name": "Avocado", "species": "Persea americana", "family": "Lauraceae", "status": "Stable", "cuttings": false, "notes": "Grown from seed." },
   { "name": "Acerola", "species": "Malpighia emarginata", "family": "Malpighiaceae", "status": "Stable", "cuttings": false, "notes": "Stable growth." },
