@@ -2735,5 +2735,19 @@
     "parentId": null,
     "body": "",
     "updatedAt": 1784172880564
+  },
+  {
+    "id": "id_mrsg3b6m_jyb5gv",
+    "title": "julho",
+    "parentId": "lq_year_2026",
+    "body": "",
+    "updatedAt": 1784504814430
+  },
+  {
+    "id": "id_mrsg3b6m_p3ha6y",
+    "title": "19 dom",
+    "parentId": "id_mrsg3b6m_jyb5gv",
+    "body": "[[2026-07-19]] 20:47\n- i think everything is working well for my website and notes\n- now i can make all my notes in here and it should be able to sync between all my devices.\n- might be even better than logseq and cherry tree",
+    "updatedAt": 1784505021737
   }
 ]
