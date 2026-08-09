@@ -1,5 +1,17 @@
 [
   {
+    "id": "id_msldl81w_c0ndm3",
+    "type": "book",
+    "title": "The Rise and Fall of the Dinosaurs",
+    "creator": "Stephen Louis \"Steve\" Brusatte",
+    "score": null,
+    "progress": "",
+    "url": "",
+    "review": "",
+    "date": "2026-08-09T05:41:00.000Z",
+    "status": "planned"
+  },
+  {
     "id": "id_msarj08u_4ztu8h",
     "type": "tv",
     "title": "Silo",
