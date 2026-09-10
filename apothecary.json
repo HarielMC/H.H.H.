@@ -1,11 +1,45 @@
 [
   {
+    "id": "id_mtw3ume2_w242uy",
+    "title": "No.7 — Cinnamon Roll Apple Cake",
+    "number": 7,
+    "time": "1 hour",
+    "yield": "20 Slices",
+    "tags": [],
+    "components": [
+      "Apple Mix",
+      "- 2 Apples, peeled and diced",
+      "- 45 g of granulated sugar",
+      "- 1 table spoon of cinnamon",
+      "Cale",
+      "- 360 g plain flour",
+      "- 200 g of granulated sugar",
+      "- 4 table spoons of baking powder",
+      "- 300 ml of whole milk",
+      "- 1 table spoon of vanilla extract",
+      "- 2 large eggs, lightly beaten",
+      "- 110 g of melted butter",
+      "Cinammon Swirl",
+      "- 120 g of melted butter",
+      "- 150 g of light brown sugar",
+      "- 2 table spoons of cinnamon",
+      "Glaze",
+      "- 200 g of icing sugar",
+      "- 40 ml of milk"
+    ],
+    "procedure": [],
+    "note": "This recipe was shared by my good friend Jay.\nI've yet to make it, but I'm recording it here for the eventual moment I decide to try it."
+  },
+  {
     "id": "carrot-cake",
     "number": 1,
     "title": "Brazilian Carrot Cake with Chocolate Glaze",
     "time": "55 min",
     "yield": "8-10 servings",
-    "tags": ["cake", "sweet"],
+    "tags": [
+      "cake",
+      "sweet"
+    ],
     "components": [
       "3 medium carrots, grated",
       "4 eggs",
@@ -35,7 +69,10 @@
     "title": "Fluffy Chocolate Cake with Brigadeiro",
     "time": "1h 15min",
     "yield": "12 servings",
-    "tags": ["cake", "sweet"],
+    "tags": [
+      "cake",
+      "sweet"
+    ],
     "components": [
       "3 eggs",
       "1 1/2 cups sugar",
@@ -69,7 +106,11 @@
     "title": "Milk & White Chocolate Ice Cream",
     "time": "13h 20min",
     "yield": "6-8 servings",
-    "tags": ["ice cream", "sweet", "cold"],
+    "tags": [
+      "ice cream",
+      "sweet",
+      "cold"
+    ],
     "components": [
       "2 egg yolks",
       "250g milk",
@@ -96,7 +137,9 @@
     "title": "Grandma's Greek Kayanas (Strapatsada)",
     "time": "35 min",
     "yield": "3 servings",
-    "tags": ["greek"],
+    "tags": [
+      "greek"
+    ],
     "components": [
       "10 ripe tomatoes (peeled, solid flesh only, seeds/gel removed)",
       "3-4 tbsp olive oil",
@@ -125,7 +168,10 @@
     "title": "Traditional Brazilian Brigadeiro",
     "time": "25 min",
     "yield": "20-25 rolling portions",
-    "tags": ["sweet", "brazilian"],
+    "tags": [
+      "sweet",
+      "brazilian"
+    ],
     "components": [
       "1 can sweetened condensed milk (395g)",
       "1 tbsp unsalted butter",
@@ -149,7 +195,9 @@
     "title": "Smoked Sausage and Onion Farofa",
     "time": "30 min",
     "yield": "6 servings",
-    "tags": ["brazilian"],
+    "tags": [
+      "brazilian"
+    ],
     "components": [
       "2 cups cassava flour (farinha de mandioca, toasted or raw)",
       "1 large smoked sausage (calabresa), finely diced",
