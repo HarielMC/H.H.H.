@@ -1,5 +1,15 @@
 [
   {
+    "id": "id_muhuayhl_icagtf",
+    "species": "Cereus jamacaru",
+    "name": "Mandacaru",
+    "family": "Cactaceae",
+    "status": "stable",
+    "cuttings": false,
+    "notes": "rooting",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cereus_jamacaru.JPG"
+  },
+  {
     "name": "Lemon Balm",
     "species": "Melissa officinalis",
     "family": "Lamiaceae",
