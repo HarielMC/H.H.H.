@@ -1,26 +1,27 @@
 {
-  "tasks": {
-    "daily_exercises": [
-      { "id": 1, "text": "Push-ups - 3x15", "completed": false },
-      { "id": 2, "text": "Plank - 3x60s", "completed": false }
-    ],
-    "academic": [
-      { "id": 3, "text": "Review research paper", "completed": false }
-    ],
-    "personal": []
-  },
-  "timers": {
-    "pomodoro": {
-      "duration": 25,
-      "alwaysVisible": true
+  "published": {
+    "tasks": {
+      "daily_exercises": [
+        { "text": "Push-ups - 3x15", "completed": false }
+      ],
+      "academic": [],
+      "personal": []
     },
-    "countdowns": [
-      {
-        "id": "cd_1",
-        "title": "Project Submission",
-        "targetDate": "2026-10-15T23:59:00",
-        "alwaysVisible": false
-      }
-    ]
+    "timers": {
+      "pomodoro": { "alwaysVisible": true, "timeLeft": 1500 }
+    }
+  },
+  "draft": {
+    "tasks": {
+      "daily_exercises": [
+        { "text": "Push-ups - 3x15", "completed": false },
+        { "text": "New Unpublished Draft Task", "completed": false }
+      ],
+      "academic": [],
+      "personal": []
+    },
+    "timers": {
+      "pomodoro": { "alwaysVisible": true, "timeLeft": 1500 }
+    }
   }
 }
