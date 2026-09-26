@@ -193,10 +193,10 @@
     "name": "Hibiscus",
     "species": "Hibiscus rosa-sinensis",
     "family": "Malvaceae",
-    "status": "Stable",
+    "status": "thriving",
     "cuttings": false,
     "notes": "Rooting in water.",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Hibiscus_rosa-sinensis_22.jpg",
     "id": "id_muht1h8b_3svedp"
   },
   {
