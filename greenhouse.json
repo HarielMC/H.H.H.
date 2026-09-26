@@ -23,9 +23,9 @@
     "name": "Green Basil",
     "species": "Ocimum basilicum",
     "family": "Lamiaceae",
-    "status": "Stable",
+    "status": "dead",
     "cuttings": false,
-    "notes": "Stable but dormant.",
+    "notes": "dead",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Basilicum_%28Ocimum_basilicum%29.jpg/960px-Basilicum_%28Ocimum_basilicum%29.jpg",
     "id": "id_muht1h8b_22ee3a"
   },
