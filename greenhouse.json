@@ -253,10 +253,10 @@
     "name": "Black Mulberry",
     "species": "Morus nigra",
     "family": "Moraceae",
-    "status": "Thriving",
+    "status": "thriving",
     "cuttings": true,
     "notes": "Thriving, cuttings available.",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Morus_nigra_fruits.JPG",
     "id": "id_muht1h8b_jbgu4z"
   },
   {
