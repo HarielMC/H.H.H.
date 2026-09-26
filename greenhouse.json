@@ -281,12 +281,12 @@
   },
   {
     "name": "Trevo (Wood Sorrel)",
-    "species": "Oxalis sp.",
+    "species": "Oxalis articulata.",
     "family": "Oxalidaceae",
-    "status": "Thriving",
+    "status": "thriving",
     "cuttings": false,
     "notes": "Stable growth, flowering.",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Pink_Sorrel_%28Oxalis_articulata%29_-_geograph.org.uk_-_5374195.jpg",
     "id": "id_muht1h8b_wqwf22"
   }
 ]
