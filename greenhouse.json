@@ -1,5 +1,15 @@
 [
   {
+    "id": "id_muhuhldn_q4evzh",
+    "species": "Crinum asiaticum",
+    "name": "Açucena-do-brejo",
+    "family": "Amaryllidaceae",
+    "status": "stable",
+    "cuttings": false,
+    "notes": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Starr_070124-3877_Crinum_asiaticum.jpg"
+  },
+  {
     "id": "id_muhuayhl_icagtf",
     "species": "Cereus jamacaru",
     "name": "Mandacaru",
