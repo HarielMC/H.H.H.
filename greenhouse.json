@@ -263,10 +263,10 @@
     "name": "Creeping Inchplant (Dinheiro em penca)",
     "species": "Callisia repens",
     "family": "Commelinaceae",
-    "status": "Thriving",
+    "status": "thriving",
     "cuttings": true,
     "notes": "Thriving, cuttings available.",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Turtle_Vine_%28Callisia_repens%29_3.jpg",
     "id": "id_muht1h8b_1llvgv"
   },
   {
