@@ -183,10 +183,10 @@
     "name": "Morango (Strawberry)",
     "species": "Fragaria ananassa",
     "family": "Rosaceae",
-    "status": "Thriving",
+    "status": "dead",
     "cuttings": false,
-    "notes": "Growing slowly.",
-    "image": "",
+    "notes": "dead",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Strawberries.JPG",
     "id": "id_muht1h8b_o6vsdt"
   },
   {
