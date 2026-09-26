@@ -223,10 +223,10 @@
     "name": "Avocado",
     "species": "Persea americana",
     "family": "Lauraceae",
-    "status": "Stable",
+    "status": "thriving",
     "cuttings": false,
     "notes": "Grown from seed.",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/A_Persea_americana_02.JPG",
     "id": "id_muht1h8b_dvdowp"
   },
   {
