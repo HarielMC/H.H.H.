@@ -273,10 +273,10 @@
     "name": "Four O'Clock Flower",
     "species": "Mirabilis jalapa",
     "family": "Nyctaginaceae",
-    "status": "Thriving",
+    "status": "thriving",
     "cuttings": true,
     "notes": "Pink and white variety. Seeds available.",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mirabilis_jalapa_%28Four_o%27clock%29_%2832911956932%29.jpg",
     "id": "id_muht1h8b_ry88rb"
   },
   {
