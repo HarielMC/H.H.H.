@@ -3477,5 +3477,19 @@
     "parentId": "lq_journal_unsorted",
     "body": "- Aula de Ornitologia, Conservação e Saúde Única\n\t- Apresentação do relatório da excursão de Ibimirim (9-11 de julho)\n\t- Responsável pelos slides 1 a 6, 12 e 13\n\t- ## Falas\n\t\t- **Slides 1-2 (capa e introdução)**\n\t\t\t- Boa tarde a todos. Vou apresentar o relato da nossa excursão à Estação de Agricultura Irrigada de Ibimirim, realizada no âmbito da disciplina Ornitologia, Conservação e Saúde Única. As aves são organismos centrais em qualquer ecossistema, desempenhando funções como polinização, dispersão de sementes e controle de invertebrados. Além disso, dentro da perspectiva de Saúde Única, elas funcionam como sentinelas ambientais e potenciais reservatórios de zoonoses. A Caatinga, em particular, é um bioma com avifauna bastante diversa e ainda carente de estudos, o que torna atividades de campo como essa ainda mais relevantes.\n\t\t- **Slide 3 (objetivo geral)**\n\t\t\t- O objetivo central da excursão foi proporcionar uma experiência prática de captura, manejo, biometria e identificação de aves, integrando o que vemos em sala de aula às práticas reais de campo e à abordagem de Saúde Única.\n\t\t- **Slide 4 (metodologia, área de estudo)**\n\t\t\t- A excursão aconteceu entre os dias 9 e 11 de julho, no município de Ibimirim, no sertão pernambucano. A estação da UFRPE oferece um ambiente interessante porque combina vegetação típica de Caatinga com áreas de agricultura irrigada, criando um mosaico que atrai tanto espécies da Caatinga quanto espécies mais generalistas.\n\t\t- **Slide 5 (metodologia, captura e manejo)**\n\t\t\t- Para a captura utilizamos redes de neblina, instaladas em área de borda de vegetação, nas coordenadas que vocês podem ver ali. As redes foram montadas ainda de madrugada para aproveitar o pico de atividade das aves ao amanhecer. Após cada captura, a ave era retirada com cuidado da rede e colocada em saco de pano para reduzir o estresse até a biometria.\n\t\t- **Slide 6 (metodologia, biometria)**\n\t\t\t- Na biometria registramos massa corporal com balança de precisão, comprimento do bico com paquímetro, comprimento da asa e comprimento total do corpo. Depois de coletar todos os dados, as aves foram soltas próximo ao ponto de captura. No total capturamos 6 indivíduos, que a Maria Eduarda e o Alex vão detalhar nos próximos slides.\n\t\t- **Slides 12-13 (Chlorostilbon lucidus)**\n\t\t\t- Passando para a terceira espécie que capturamos, o besourinho-de-bico-vermelho, *Chlorostilbon lucidus*. É um beija-flor pequeno, inconfundível pelo bico vermelho com ponta negra e pela plumagem verde-brilhante. Habita áreas abertas, jardins, capoeiras ralas e bordas de vegetação de Caatinga, que é exatamente o ambiente onde nós estávamos. Alimenta-se principalmente de néctar, mas também consome insetos e aranhas, e é considerada uma espécie importante na polinização de plantas da Caatinga. Quanto ao status de conservação, está classificada como menos preocupante pela IUCN. Em relação à distribuição, é uma espécie de ampla ocorrência no Brasil, presente do Maranhão ao Rio Grande do Sul, além de Uruguai, Paraguai e Bolívia. Os indivíduos que capturamos pertencem à subespécie *pucherani*, que é justamente a que ocorre no Nordeste.",
     "updatedAt": 1781563146063
+  },
+  {
+    "id": "id_mvzwvtl8_yqom0s",
+    "title": "novembro",
+    "parentId": "lq_year_2026",
+    "body": "",
+    "updatedAt": 1793663411084
+  },
+  {
+    "id": "id_mvzwvtl8_y8f89k",
+    "title": "segunda-feira, 02 de novembro de 2026",
+    "parentId": "id_mvzwvtl8_yqom0s",
+    "body": "#DONE - Teste de calendário\n#LATER [[2026-11-03 08:00]] - Consulta com psiquiatra do SUS",
+    "updatedAt": 1793663511963
   }
 ]
