@@ -380,21 +380,21 @@
   {
     "id": "cta_6",
     "title": "2020.1 (CANCELADO)",
-    "parentId": "cta_5",
+    "parentId": "hh_bach_2020_s1",
     "body": "\n\n_[A table here couldn't be auto-converted -- raw data kept below so nothing is lost:]_\n\n```\n<?xml version=\"1.0\" ?><table><row><cell>Manhã</cell><cell>Genética da conservação\n10:00 - 11:40\n</cell><cell>Biodiversidade e conservação\n10:00 - 12:00</cell><cell>Embriologia\n07:30 - 10:00\n\nSistemática Vegetal 2\n10:50 - 12:30\n</cell><cell>Educação Ambiental\n09:00 - 12:20\n\n\n</cell><cell>Sistemática vegetal 2\n08:00 - 10:00\n\nLegislação Professional do biólogo\n10:20 - 12:00\n</cell></row><row><cell>Tarde</cell><cell>Saúde pública\n13:00 - 15:30\n\nPoliticas púplicas e desenvolvimento\n15:30 - 17:10\n</cell><cell></cell><cell>Planejamento ambiental\n14:00 - 17:20\n</cell><cell>Conceitos e fundamentos de biotecnologia\n13:00 - 17:00\n</cell><cell>Micologia geral\n13:30 - 16:00</cell></row><row><cell></cell><cell>Segunda</cell><cell>Terça</cell><cell>Quarta</cell><cell>Quinta</cell><cell>Sexta</cell></row></table>\n```\n",
     "updatedAt": 1618372385000
   },
   {
     "id": "cta_61",
     "title": "2020.1",
-    "parentId": "cta_5",
+    "parentId": "hh_bach_2020_s1",
     "body": "",
     "updatedAt": 1621062223000
   },
   {
     "id": "cta_54",
     "title": "2020.3",
-    "parentId": "cta_5",
+    "parentId": "hh_bach_2020_s3",
     "body": "",
     "updatedAt": 1611870247000
   },
@@ -569,7 +569,7 @@
   {
     "id": "cta_95",
     "title": "2019.2",
-    "parentId": "cta_5",
+    "parentId": "hh_bach_2019_s2",
     "body": "\n\n_[A table here couldn't be auto-converted -- raw data kept below so nothing is lost:]_\n\n```\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table col_widths=\"0,0,0,0,0,0,0\"><row><cell>Manhã</cell><cell>Fisiologia Humana 07:40 - 10:50</cell><cell>Imunologia Geral 09:40 - 12:30</cell><cell>embriologia 07:30 - 10:00 geologia 10:00 - 12:30</cell><cell>Poluição ambiental 08:00 - 9:40 Sistemática Vegetal 10:00 - 12:30</cell><cell>Genética de populações 09:30 - 12:30</cell><cell></cell></row><row><cell>Tarde</cell><cell></cell><cell>Fisiologia Vegetal 13:30 - 17:30</cell><cell>Parasitologia 13:30 - 15:50</cell><cell>Ecologia de Comunidades 13:30 - 15:20</cell><cell>Zoologia dos Vertebrados 2 13:30 - 16:00</cell><cell></cell></row><row><cell>Noite</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Segunda</cell><cell>Terça</cell><cell>Quarta</cell><cell>Quinta</cell><cell>Sexta</cell><cell>Sábado</cell></row></table>\n\n```\n",
     "updatedAt": 1618374038000
   },
@@ -716,7 +716,7 @@
   {
     "id": "cta_112",
     "title": "2020.2",
-    "parentId": "cta_5",
+    "parentId": "hh_bach_2020_s2",
     "body": "Horário final:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n*Terça e Sexta a tarde livres*\nOpções: \n\n1. Biofísica Segunda a tarde\n\n\n2. Bioestatística Quarta de manhã\n\n3. \nParasitologia Quarta de manhã\n\n4. \nFisiologia Animal Quinta a tarde\n\n5. \nEletiva Sexta a tarde\n (Biossegurança)\n\n\n\n\n\nEletivas:\n6. Interpretações de exames clínicos\n7. Plantas Medicinais e Terapêuticas\n8. Módulo Interprofissional\n9. Fisiologia do Estresse Humano\n10. Libras\n11. Geologia Aplicada aos Ambientes Costeiros\n12. Biossegurança\n\n\n\n\n\n\nHorário final esperado:\n\n_[A table here couldn't be auto-converted -- raw data kept below so nothing is lost:]_\n\n```\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table col_widths=\"0,0,0,0,0\"><row><cell>Tecnologia Ambiental\n09:00 - 12:00</cell><cell>Manejo e Conservação de Ecossistemas\n08:00 - 10:00</cell><cell>Métodos de Estudo em Biodiversidade\n07:00 - 11:00</cell><cell></cell><cell>Estágio Obrigatório\n08:00 - 12:00</cell></row><row><cell>Estágio Obrigatório\n13:00 - 17:00\n----------------------------\nArteterapia\n17:00 - 18:00</cell><cell></cell><cell>Estágio Obrigatório\n13:00 - 17:00</cell><cell>TCC 1\n12:00 - 13:00\n----------------------\nFisiologia Animal\n13:00 - 15:00\n----------------------\nManejo e Conservação de Ecossistemas\n15:00 - 17:00</cell><cell>Biossegurança\n13:00 - 17:00</cell></row><row><cell>        Segunda        </cell><cell>        Terça       </cell><cell>        Quarta        </cell><cell>      Quinta       </cell><cell>         Sexta         </cell></row></table>\n\n```\n\n\n_[A table here couldn't be auto-converted -- raw data kept below so nothing is lost:]_\n\n```\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table col_widths=\"0,0,0,0,0\"><row><cell></cell><cell></cell><cell>Bioestatística\n08:00 - 11:20\n--------------------------\nParasitologia\n08:00 - 12:00</cell><cell></cell><cell></cell></row><row><cell>Biofísica\n13:30 - 16:50</cell><cell></cell><cell></cell><cell>Fisiologia Animal\n13:30 - 16:50</cell><cell></cell></row><row><cell>        Segunda        </cell><cell>           Terça           </cell><cell>        Quarta        </cell><cell>      Quinta       </cell><cell>         Sexta         </cell></row></table>\n\n```\n\n\n_[A table here couldn't be auto-converted -- raw data kept below so nothing is lost:]_\n\n```\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table col_widths=\"0,0,0,0,0\"><row><cell>Interpretações de exames clínicos\n08:00 - 10:30</cell><cell>Módulo Interprofissional\n</cell><cell></cell><cell>Libras\n07:30 - 10:50</cell><cell>Geologia Aplicada aos Ambientes Costeiros\n09:00 - 11:30</cell></row><row><cell>Plantas Medicinais e Terapêuticas\n13:30 - 16:00</cell><cell></cell><cell>Fisiologia do Estresse Humano\n14:00 - 16:30</cell><cell></cell><cell>Biossegurança\n13:00 - 17:00</cell></row><row><cell>        Segunda        </cell><cell>        Terça       </cell><cell>        Quarta        </cell><cell>      Quinta       </cell><cell>         Sexta         </cell></row></table>\n\n```\n\n\n_[A table here couldn't be auto-converted -- raw data kept below so nothing is lost:]_\n\n```\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table col_widths=\"0,0,0,0,0\"><row><cell>Tecnologia Ambiental\n08:00 - 10:00</cell><cell>Manejo e Conservação de Ecossistemas\n08:00 - 10:00</cell><cell>Métodos de Estudo em Biodiversidade\n07:30 - 11:20</cell><cell>TCC 1\n11:20 - 12:20</cell><cell>Estágio Obrigatório</cell></row><row><cell>Estágio Obrigatório\n</cell><cell></cell><cell>Estágio Obrigatório</cell><cell>Manejo e Conservação de Ecossistemas\n14:00 - 16:10</cell><cell>Biossegurança\n13:00 - 17:00</cell></row><row><cell>        Segunda        </cell><cell>        Terça       </cell><cell>        Quarta        </cell><cell>      Quinta       </cell><cell>         Sexta         </cell></row></table>\n\n```\n",
     "updatedAt": 1622146212000
   },
@@ -744,7 +744,7 @@
   {
     "id": "cta_122",
     "title": "2021.1",
-    "parentId": "cta_5",
+    "parentId": "hh_bach_2021_s1",
     "body": "Horário final:\n\n_[A table here couldn't be auto-converted -- raw data kept below so nothing is lost:]_\n\n```\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table col_widths=\"0,0,0,0,0\"><row><cell></cell><cell></cell><cell>Parasitologia\n08:00 - 12:00</cell><cell>Cultura de Tecidos Vegetais\n08:00 - 10:00</cell><cell>Geologia Aplicada a Ambientes Costeiros\n08:00 - 11:00</cell></row><row><cell>Biofísica\n13:00 - 16:00\n</cell><cell>Nanobiotecnologia\n13:00 - 17:00</cell><cell>Gestão Ambiental\n13:00 - 17:00</cell><cell></cell><cell>Empreendedorismo\n14:00 - 16:00</cell></row><row><cell>        Segunda        </cell><cell>         Terça        </cell><cell>        Quarta        </cell><cell>      Quinta       </cell><cell>         Sexta         </cell></row></table>\n\n```\n",
     "updatedAt": 1634126901000
   },
@@ -2081,14 +2081,14 @@
   {
     "id": "lq_27326711",
     "title": "Bases moleculares para o ensino de ciências biológicas",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "- Aulas\n\t-\n\t- {{embed ((672b7504-8902-4801-81b8-1675778376bc))}}\n\t- {{embed ((6737fb91-702a-476f-acf6-2b0004ef311f))}}\n\t- {{embed ((6737fb91-554a-494c-9275-9672d337548e))}}\n\t- {{embed ((6746109a-b4e5-4677-8ae4-b4135d593205))}}\n\t- {{embed ((67509f44-4c17-44b4-b64e-1e71a9658fb3))}}\n\t- {{embed ((6758a84c-c41f-40f9-9712-395acd23e51a))}}\n\t- {{embed ((67b0bed1-6d08-4af5-87e4-4a3c6d3a1707))}}\n\t- {{embed ((67b0be70-8dd8-4a5b-80da-5ba3622fa697))}}\n\t- {{embed ((67b0be70-6521-42bc-b221-a58fe02a6e7f))}}\n- Avaliações\n  collapsed:: true\n\t- Avaliação 1\n\t  collapsed:: true\n\t\t- Prova: 5,4\n\t\t- Relatório: 2\n\t\t- Participação: 0,5\n\t\t- Média: 7,9\n\t\t- Média no sigaa: 8\n\t- Avaliação 2\n\t  collapsed:: true\n\t\t- Seminário:\n\t\t- Relatório 1:\n\t\t- Relatório 2:\n\t\t- Participação:\n\t\t- Média:\n\t\t- Média no siga:",
     "updatedAt": 1739638755586
   },
   {
     "id": "lq_52449016",
     "title": "Bases teóricas e práticas em educação ambiental",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_2026_s1",
     "body": "- [[Bases Teóricas e Práticas em Educação Ambiental]] #cursando\n\t- Código:\n\t- Período a ser ofertado: 4º\n\t- Semestre cursado: 2026.1\n\t- Pré-requisitos:\n\t- Docente:\n\t- Carga Horária: 45h\n\t- Créditos:\n\t- Tipo:\n\t- Horário:\n\t- Local:\n\t- Estado: #cursando\n\t- Notas:\n\t- Ementa: Fundamentos teóricos e práticos da Educação Ambiental. Relações entre sociedade, natureza e meio ambiente. Legislação e políticas públicas ambientais. Práticas pedagógicas em Educação Ambiental formal e não formal.\n\t- Conteúdo:\n\t\t- Histórico e fundamentos da Educação Ambiental\n\t\t- Marcos legais: PNEA (Lei 9.795/99) e outros instrumentos\n\t\t- Correntes e tendências em Educação Ambiental\n\t\t- Metodologias participativas e práticas pedagógicas\n\t\t- Projetos de Educação Ambiental em espaços formais e não formais\n\t- Bibliografia básica:\n\t\t- LEFF, E. Saber ambiental: sustentabilidade, racionalidade, complexidade, poder. Petrópolis: Vozes, 2001.\n\t\t- REIGOTA, M. O que é Educação Ambiental. São Paulo: Brasiliense, 2009.\n\t\t- BRASIL. Lei nº 9.795/1999 — Política Nacional de Educação Ambiental.\n\t- Bibliografia complementar:\n\t\t- JACOBI, P. Educação ambiental, cidadania e sustentabilidade. Cadernos de Pesquisa, n. 118, 2003.\n\t\t- LAYRARGUES, P. P. (org.). Identidades da educação ambiental brasileira. Brasília: MMA, 2004.\n- Período a ser ofertado: 8º\n- Semestre cursado: 2026.1\n- Pré-requisitos: Não há\n- Docente:\n- Carga Horária: 30h Teóricas e 15h Práticas\n- Créditos: 3\n- Tipo: Obrigatória\n- Horário:\n- Local:\n- Estado: #cursando\n- Notas:\n- Ementa:\n\t- Educação ambiental: conceitos, princípios e fundamentos histórico-filosóficos. Correntes teóricas da Educação Ambiental. Políticas públicas de Educação Ambiental no Brasil. Educação Ambiental formal e não formal. Percepção ambiental como instrumento da Educação Ambiental. Projetos de Educação Ambiental: planejamento e elaboração.\n- Conteúdo:\n\t- 1. Histórico da Educação Ambiental no Brasil e no mundo\n\t- 2. Fundamentos teórico-filosóficos da EA\n\t- 3. Correntes teóricas: conservacionista, crítica, transformadora\n\t- 4. Legislação e políticas públicas de EA (PNEA, PRONEA, DCNEA)\n\t- 5. EA formal: currículo, interdisciplinaridade e transversalidade\n\t- 6. EA não formal: comunidades, ONGs e movimentos sociais\n\t- 7. Percepção ambiental: instrumentos e aplicações\n\t- 8. Elaboração de projetos de EA\n- Bibliografia básica:\n\t- DIAS, G. F. Educação ambiental: princípios e práticas. 9. ed. São Paulo: Gaia, 2004.\n\t- JACOBI, P. Educação ambiental, cidadania e sustentabilidade. Cadernos de Pesquisa, n. 118, p. 189-205, 2003.\n\t- LAYRARGUES, P. P. (org.). Identidades da educação ambiental brasileira. Brasília: MMA, 2004.\n- Bibliografia complementar:\n\t- CARVALHO, I. C. M. Educação ambiental: a formação do sujeito ecológico. São Paulo: Cortez, 2004.\n\t- GUIMARÃES, M. A dimensão ambiental na educação. 11. ed. Campinas: Papirus, 2013.\n\t- LEFF, E. Epistemologia ambiental. 5. ed. São Paulo: Cortez, 2010.\n\t- REIGOTA, M. O que é educação ambiental. 2. ed. São Paulo: Brasiliense, 2009.\n\t- SORRENTINO, M. et al. Educação ambiental como política pública. Educação e Pesquisa, v. 31, n. 2, p. 285-299, 2005.",
     "updatedAt": 1772925672120
   },
@@ -2116,21 +2116,21 @@
   {
     "id": "lq_20620085",
     "title": "Educação das relações étnico-raciais",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "- {{embed ((6717d874-5f86-4444-b6d9-12bfb9e77b13))}}\n- {{embed ((672b7504-9530-4e65-bdcf-1c3aec064998))}}\n- {{embed ((672b7504-93d0-40d7-8e64-af743886832f))}}\n-",
     "updatedAt": 1730901343000
   },
   {
     "id": "lq_10311087",
     "title": "Educação e comunicação em saúde",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "- {{embed ((6717dce3-60bc-4081-8ff2-4ce801459fb4))}}\n- {{embed ((672b7504-a1f8-49c0-8f76-faeb166de2cd))}}\n-",
     "updatedAt": 1730901420000
   },
   {
     "id": "lq_96771218",
     "title": "Fundamentos da Educação",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "- Aulas\n\t- {{embed ((6737fb91-f26d-40aa-8df9-6c5797aa4332))}}\n\t- {{embed ((673a0feb-3022-400a-89fb-89d08b24c4b9))}}\n\t- {{embed ((673d1d92-c7b1-4ff1-b259-77d94f966f07))}}\n\t- {{embed ((674657e5-b993-49b3-97a3-e1b2b4701d97))}}\n\t- {{embed ((6748991b-6a1f-4a63-a83d-42cdcbc7d75f))}}\n\t- {{embed ((674a4f29-e56a-4df5-9b42-b1d1cd667079))}}\n\t- {{embed ((6758aacf-bdef-442f-848f-c1148ff6ac9b))}}\n\t- {{embed ((675cc260-cfba-4aed-8f16-c731fc1b1538))}}\n\t- {{embed ((67b0be6f-97e7-406a-88d0-39392e218356))}}\n\t- {{embed ((67b0be70-a44b-461a-bbd0-edac9e5f5a18))}}\n\t- {{embed ((67b7ba2e-8f14-4fe1-b838-9277f4a2c3f0))}}\n- {{embed ((67be47e1-dfdf-4bbd-8bb3-004d0a189dfb))}}\n- {{embed ((67d0b037-c115-4ce9-a959-82c206932885))}}\n-\n- Avaliações\n\t- Avaliação 1\n\t\t- Prova:\n\t\t- Média:\n\t- Avaliação 2\n\t\t- Prova:\n\t\t- Debate:\n\t\t- Trabalho:\n\t\t- Média:\n-",
     "updatedAt": 1746749115411
   },
@@ -2151,7 +2151,7 @@
   {
     "id": "lq_42380745",
     "title": "Linguagem Brasileira de Sinais",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_2026_s1",
     "body": "- Código: 03185\n- Período a ser ofertado: 10º\n- Semestre cursado: 2026.1\n- Pré-requisitos: Não há\n- Docente:\n- Carga Horária: 60h Teóricas\n- Créditos: 4\n- Tipo: Obrigatória\n- Horário:\n- Local:\n- Estado: #cursando\n- Notas:\n- Ementa:\n\t- Aspectos históricos e legais da Língua Brasileira de Sinais — Libras. Fundamentos linguísticos da Libras: fonologia, morfologia, sintaxe e semântica. Cultura e identidade surda. Libras no contexto educacional inclusivo. Introdução à prática comunicativa em Libras.\n- Conteúdo:\n\t- 1. História da educação de surdos e da Libras no Brasil\n\t- 2. Legislação: Decreto 5.626/2005, Lei 10.436/2002\n\t- 3. Identidade e cultura surda\n\t- 4. Fundamentos linguísticos da Libras\n\t- 5. Parâmetros da Libras: configuração de mão, ponto de articulação, movimento, orientação e expressão facial\n\t- 6. Vocabulário básico em Libras\n\t- 7. Libras no contexto escolar e na educação inclusiva\n\t- 8. Prática comunicativa introdutória\n- Bibliografia básica:\n\t- BRASIL. Decreto n. 5.626, de 22 de dezembro de 2005. Regulamenta a Lei nº 10.436/2002. Brasília: Presidência da República, 2005.\n\t- QUADROS, R. M.; KARNOPP, L. B. Língua de sinais brasileira: estudos linguísticos. Porto Alegre: Artmed, 2004.\n\t- SKLIAR, C. (org.). A surdez: um olhar sobre as diferenças. Porto Alegre: Mediação, 1998.\n- Bibliografia complementar:\n\t- CAPOVILLA, F. C.; RAPHAEL, W. D. Dicionário enciclopédico ilustrado trilíngue da língua de sinais brasileira. 3. ed. São Paulo: EDUSP, 2001.\n\t- GESSER, A. Libras? Que língua é essa? São Paulo: Parábola Editorial, 2009.\n\t- GOLDFELD, M. A criança surda: linguagem e cognição numa perspectiva sócio-interacionista. 2. ed. São Paulo: Plexus, 2002.\n\t- PEREIRA, M. C. C. et al. Libras: conhecimento além dos sinais. São Paulo: Pearson, 2011.\n\t- STROBEL, K. As imagens do outro sobre a cultura surda. 3. ed. Florianópolis: UFSC, 2013.",
     "updatedAt": 1772912331105
   },
@@ -2172,7 +2172,7 @@
   {
     "id": "lq_22455188",
     "title": "Metodologia do ensino da biologia",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "-\n- {{embed ((68cd870c-6b86-43bf-951c-552c4f54a30a))}}\n- {{embed ((68d6c4eb-7b0d-4cbf-ac6d-9b85b0f23c8a))}}\n-",
     "updatedAt": 1758907899413
   },
@@ -2186,49 +2186,49 @@
   {
     "id": "lq_52405562",
     "title": "Ornitologia, Conservação e Saúde Única",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_2026_s1",
     "body": "- [[Ornitologia, Conservação e Saúde Única]] #cursando\n\t- Código:\n\t- Período a ser ofertado: 4º\n\t- Semestre cursado: 2026.1\n\t- Pré-requisitos:\n\t- Docente: Severino Mendes de Azevedo Junior\n\t- Carga Horária: 60h\n\t- Créditos:\n\t- Tipo: Optativa\n\t- Horário: 13:00 - 17:00\n\t- Local: Departamento de biologia - Sala 413\n\t- Estado: #cursando\n\t- Notas: Optativa — em curso em 2026.1\n\t- Ementa: Diversidade, sistemática e biogeografia das aves. Aspectos ecológicos e comportamentais. Aves como bioindicadores. Interface entre saúde animal, humana e ambiental no conceito de Saúde Única (One Health). Conservação de aves no Brasil.\n\t- Conteúdo:\n\t\t- Filogenia e sistemática das aves\n\t\t- Morfologia externa e identificação de espécies\n\t\t- Ecologia e comportamento de aves\n\t\t- Aves como vetores e sentinelas de doenças\n\t\t- Conceito de Saúde Única: interfaces entre saúde humana, animal e ambiental\n\t\t- Conservação de aves: espécies ameaçadas, UCs e tráfico de animais\n\t\t- Avifauna do Nordeste e biomas associados\n\t- Bibliografia básica:\n\t\t- SICK, H. Ornitologia Brasileira. Rio de Janeiro: Nova Fronteira, 1997.\n\t\t- CBRO — Comitê Brasileiro de Registros Ornitológicos. Lista das aves do Brasil. 2021.\n\t\t- DASZAK, P.; CUNNINGHAM, A. A.; HYATT, A. D. Emerging infectious diseases of wildlife. Science, 2000.\n\t- Bibliografia complementar:\n\t\t- ALEIXO, A. et al. Aves da Amazônia. Belém: MPEG, 2011.\n\t\t- WHO. One Health. Disponível em: https://www.who.int/news-room/questions-and-answers/item/one-health",
     "updatedAt": 1773159101390
   },
   {
     "id": "lq_68814152",
     "title": "PEDI",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "- {{embed ((674fa314-65f0-44b3-a75f-b30f4fc74998))}}\n-",
     "updatedAt": 1733275586591
   },
   {
     "id": "lq_31926874",
     "title": "Produção de material didático para mídias eletrônicas",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "- {{embed ((67472c13-f42a-43ab-90ef-965d8cc89515))}}\n-",
     "updatedAt": 1732837885246
   },
   {
     "id": "lq_59750923",
     "title": "Projeto Temático Integrador 1",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "- {{embed ((671848a7-2f13-4d5e-920c-51a772715177))}}\n-\n- Aula 1\n\t- Leitura do artigo\n\t\t- ![Por_uma_pedagogia_de_projetos_uma_sntese_texto_1.pdf](../assets/Por_uma_pedagogia_de_projetos_uma_sntese_texto_1_1730902046609_0.pdf)\n\t\t-",
     "updatedAt": 1730902049000
   },
   {
     "id": "lq_51145701",
     "title": "Projeto Temático Integrador 2",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "- {{embed ((67184bc7-85ab-4c80-86df-d95f001a6ca0))}}",
     "updatedAt": 1729647344000
   },
   {
     "id": "lq_51905631",
     "title": "Projeto Temático Integrador 4",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_2026_s1",
     "body": "- [[Projeto Temático Integrador 4]] #cursando\n\t- Código:\n\t- Período a ser ofertado: 4º\n\t- Semestre cursado: 2026.1\n\t- Pré-requisitos: [[Projeto Temático Integrador 3]]\n\t- Docente: Marília Sales\n\t- Carga Horária: 60h\n\t- Créditos:\n\t- Tipo:\n\t- Horário: 18:30 - 21:50\n\t- Local: Departamento de biologia - Sala 303\n\t- Estado: #cursando\n\t- Notas:\n\t- Ementa: Desenvolvimento de projeto integrador articulando saberes das disciplinas do 4º período da Licenciatura em Ciências Biológicas. Elaboração, execução e apresentação de proposta pedagógica interdisciplinar voltada ao ensino de Ciências e Biologia.\n\t- Conteúdo:\n\t\t- Planejamento e desenvolvimento de projeto interdisciplinar\n\t\t- Articulação entre Educação Ambiental, LIBRAS e demais componentes do período\n\t\t- Elaboração de produto educacional\n\t\t- Apresentação e avaliação coletiva do projeto\n\t- Bibliografia básica:\n\t\t- FAZENDA, I. C. A. Interdisciplinaridade: história, teoria e pesquisa. Campinas: Papirus, 2008.\n\t\t- HERNÁNDEZ, F.; VENTURA, M. A organização do currículo por projetos de trabalho. Porto Alegre: Artmed, 1998.\n\t- Bibliografia complementar:\n\t\t- ZABALA, A. A prática educativa: como ensinar. Porto Alegre: Artmed, 1998.",
     "updatedAt": 1773265005882
   },
   {
     "id": "lq_69305463",
     "title": "Redação e Produção Científica",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_2026_s1",
     "body": "- [[Redação e Produção Científica]] #cursando\n\t- Código:\n\t- Período a ser ofertado: 4º\n\t- Semestre cursado: 2026.1\n\t- Pré-requisitos:\n\t- Docente:\n\t- Carga Horária: 60h\n\t- Créditos:\n\t- Tipo:\n\t- Horário:\n\t- Local:\n\t- Estado: #cursando\n\t- Notas: Pré-requisito para ESO I (2026.2)\n\t- Ementa: Produção textual acadêmica e científica. Estrutura e normas de trabalhos científicos. Leitura crítica de artigos e publicações científicas. Ética na pesquisa e na escrita acadêmica. Normas ABNT aplicadas à produção científica em Ciências Biológicas.\n\t- Conteúdo:\n\t\t- Tipos de texto científico: artigo, resenha, resumo, relatório, TCC\n\t\t- Estrutura do texto científico (IMRAD e variações)\n\t\t- Normas ABNT para citações e referências (NBR 6023, NBR 10520)\n\t\t- Plágio e ética na escrita acadêmica\n\t\t- Leitura e análise crítica de artigos científicos\n\t\t- Produção de resumos, introduções e referências\n\t- Bibliografia básica:\n\t\t- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: Informação e documentação — Referências. Rio de Janeiro: ABNT, 2018.\n\t\t- MARCONI, M. A.; LAKATOS, E. M. Fundamentos de metodologia científica. São Paulo: Atlas, 2010.\n\t\t- SEVERINO, A. J. Metodologia do trabalho científico. São Paulo: Cortez, 2016.\n\t- Bibliografia complementar:\n\t\t- ECO, U. Como se faz uma tese. São Paulo: Perspectiva, 2010.\n\t\t- VOLPATO, G. L. Publicar em ciência: com qualidade. São Paulo: Cultura Acadêmica, 2008.",
     "updatedAt": 1774391205772
   },
@@ -2242,7 +2242,7 @@
   {
     "id": "lq_53686210",
     "title": "Sistemática e Biogeografia",
-    "parentId": "hh_degree_licenciatura_ufrpe",
+    "parentId": "hh_ufrpe_disciplines",
     "body": "- {{embed ((67182564-7bb4-4522-9c88-047c4c64b7ae))}}\n-",
     "updatedAt": 1729636997000
   },
@@ -3020,7 +3020,7 @@
     "id": "lq_89004820",
     "title": "terça-feira, 22 de abril de 2025",
     "parentId": "lq_month_2025_04",
-    "body": "- [[Fundamentos da docência em Ciências e Biologia]]\n\t- Aula 1\n\t\t- monitores.dani@gmail.com\n\t\t\t- Email de contato com os monitores\n\t\t- 82\n\t\t- Aula introdutória sem informações relevantes\n- [[Geologia aplicada ao ensino da Biologia]]\n\t- Aula 1\n\t\t- Aula introdutória\n\t\t- Bibliografia:\n\t\t\t- RECOMENDADA:\n\t\t\t\t- 1. Grotzinger, John, e Tom Jordan. Para Entender a Terra. Disponível em: Minha\n\t\t\t\t  Biblioteca, (6th edição). Grupo A, 2014.\n\t\t\t\t- 2. Henrique, POPP, J. Geologia Geral, 7ª edição. Disponível em: Minha Biblioteca, Grupo\n\t\t\t\t  GEN, 2017.\n\t\t\t\t- 3. Pomerol, Charles, et al. Princípios de Geologia. Disponível em: Minha Biblioteca,\n\t\t\t\t  Grupo A, 2013.\n\t\t\t\t- 4. Wicander, Reed, e James S. Monroe. Geologia - Tradução da 2ª edição norte americana. Disponível em: Minha Biblioteca, Cengage Learning Brasil, 2017.\n\t\t\t\t- 5. Wetzel, Raquel, S. et al. Mineralogia. Disponível em: Minha Biblioteca, Grupo A, 2020.\n\t\t\t\t- 6. Brady, Nyle, C. e Ray R. Weil. Elementos da Natureza e Propriedades dos Solos.\n\t\t\t\t  Disponível em: Minha Biblioteca, (3rd edição). Grupo A, 2013.\n\t\t\t- COMPLEMENTAR:\n\t\t\t\t- 1. Suguio, Kentiro. Geologia Sedimentar. Disponível em: Minha Biblioteca, Editora Blucher,\n\t\t\t\t  2003.\n\t\t\t\t- 2. Leão, Márcio, F. et al. Geologia estrutural. Disponível em: Minha Biblioteca, Grupo A,\n\t\t\t\t  2020.\n\t\t\t\t- 3. Born, Cristiano, R. et al. Petrologia. Disponível em: Minha Biblioteca, Grupo A, 2021.\n\t\t\t\t- 4. Bertollo, Mait, et al. Pedologia. Disponível em: Minha Biblioteca, Grupo A, 2021.\n\t\t\t\t- 5. Reichardt, Klaus, e Luís Carlos Timm. Solo, Planta e Atmosfera: Conceitos, Processos e\n\t\t\t\t  Aplicações. Disponível em: Minha Biblioteca, (3rd edição). Editora Manole, 2016.\n- [[Didática A]]\n\t- Aula 1\n\t\t- Professor Ricardo\n\t\t- Classroom: 04KQH2RI\n\t\t- Definição\n\t\t\t- Didática é a forma e as técnicas usadas por um professor passar o seu conhecimento\n\t\t\t- Ementa é a listagem de conteúdos que devem ser ensinados em uma determinada disciplina. A ementa é responsável por organizar todo o resto da disciplina\n\t\t\t- Objetivos\n\t\t\t\t- Gerais\n\t\t\t\t\t- Aquilo que o professor vai oferecer ao estudante\n\t\t\t\t- Específicos\n\t\t\t\t\t- Aquilo que se espera dos estudantes",
+    "body": "- [[Fundamentos da docência em Ciências e Biologia]]\n\t- Aula 1\n\t\t- monitores.dani@gmail.com\n\t\t\t- Email de contato com os monitores\n\t\t- 82\n\t\t- Aula introdutória sem informações relevantes\n- [[Geologia aplicada ao ensino da Biologia]]\n\t- Aula 1\n\t\t- Aula introdutória\n\t\t- Bibliografia:\n\t\t\t- RECOMENDADA:\n\t\t\t\t- 1. Grotzinger, John, e Tom Jordan. Para Entender a Terra. Disponível em: Minha\n\t\t\t\t  Biblioteca, (6th edição). Grupo A, 2014.\n\t\t\t\t- 2. Henrique, POPP, J. Geologia Geral, 7ª edição. Disponível em: Minha Biblioteca, Grupo\n\t\t\t\t  GEN, 2017.\n\t\t\t\t- 3. Pomerol, Charles, et al. Princípios de Geologia. Disponível em: Minha Biblioteca,\n\t\t\t\t  Grupo A, 2013.\n\t\t\t\t- 4. Wicander, Reed, e James S. Monroe. Geologia - Tradução da 2ª edição norte�americana. Disponível em: Minha Biblioteca, Cengage Learning Brasil, 2017.\n\t\t\t\t- 5. Wetzel, Raquel, S. et al. Mineralogia. Disponível em: Minha Biblioteca, Grupo A, 2020.\n\t\t\t\t- 6. Brady, Nyle, C. e Ray R. Weil. Elementos da Natureza e Propriedades dos Solos.\n\t\t\t\t  Disponível em: Minha Biblioteca, (3rd edição). Grupo A, 2013.\n\t\t\t- COMPLEMENTAR:\n\t\t\t\t- 1. Suguio, Kentiro. Geologia Sedimentar. Disponível em: Minha Biblioteca, Editora Blucher,\n\t\t\t\t  2003.\n\t\t\t\t- 2. Leão, Márcio, F. et al. Geologia estrutural. Disponível em: Minha Biblioteca, Grupo A,\n\t\t\t\t  2020.\n\t\t\t\t- 3. Born, Cristiano, R. et al. Petrologia. Disponível em: Minha Biblioteca, Grupo A, 2021.\n\t\t\t\t- 4. Bertollo, Mait, et al. Pedologia. Disponível em: Minha Biblioteca, Grupo A, 2021.\n\t\t\t\t- 5. Reichardt, Klaus, e Luís Carlos Timm. Solo, Planta e Atmosfera: Conceitos, Processos e\n\t\t\t\t  Aplicações. Disponível em: Minha Biblioteca, (3rd edição). Editora Manole, 2016.\n- [[Didática A]]\n\t- Aula 1\n\t\t- Professor Ricardo\n\t\t- Classroom: 04KQH2RI\n\t\t- Definição\n\t\t\t- Didática é a forma e as técnicas usadas por um professor passar o seu conhecimento\n\t\t\t- Ementa é a listagem de conteúdos que devem ser ensinados em uma determinada disciplina. A ementa é responsável por organizar todo o resto da disciplina\n\t\t\t- Objetivos\n\t\t\t\t- Gerais\n\t\t\t\t\t- Aquilo que o professor vai oferecer ao estudante\n\t\t\t\t- Específicos\n\t\t\t\t\t- Aquilo que se espera dos estudantes",
     "updatedAt": 1748362756987
   },
   {
@@ -3554,5 +3554,82 @@
     "parentId": "cta_4",
     "body": "",
     "updatedAt": 1793664671082
+  },
+  {
+    "id": "hh_bach_year_2019",
+    "title": "2019",
+    "parentId": "cta_5",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_bach_2019_s2",
+    "title": "2º semestre",
+    "parentId": "hh_bach_year_2019",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_bach_year_2020",
+    "title": "2020",
+    "parentId": "cta_5",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_bach_2020_s1",
+    "title": "1º semestre",
+    "parentId": "hh_bach_year_2020",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_bach_2020_s2",
+    "title": "2º semestre",
+    "parentId": "hh_bach_year_2020",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_bach_2020_s3",
+    "title": "3º semestre",
+    "parentId": "hh_bach_year_2020",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_bach_year_2021",
+    "title": "2021",
+    "parentId": "cta_5",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_bach_2021_s1",
+    "title": "1º semestre",
+    "parentId": "hh_bach_year_2021",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_ufrpe_year_2026",
+    "title": "2026",
+    "parentId": "hh_degree_licenciatura_ufrpe",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_ufrpe_2026_s1",
+    "title": "1º semestre",
+    "parentId": "hh_ufrpe_year_2026",
+    "body": "",
+    "updatedAt": 1793665262563
+  },
+  {
+    "id": "hh_ufrpe_disciplines",
+    "title": "Disciplinas",
+    "parentId": "hh_degree_licenciatura_ufrpe",
+    "body": "",
+    "updatedAt": 1793665262563
   }
 ]
